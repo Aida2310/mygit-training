@@ -11,6 +11,8 @@ Then this is meant for you!
 Let's get started!
 
 ---
+**QUE ESTRES DE  VIDA**
+
 
 > Based on the general concept from Rachel M. Carmena's blog post on [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html).
 > 
@@ -35,7 +37,7 @@ Let's get started!
 - [Rewriting history](#rewriting-history)
 - [Reading history](#reading-history)
 ---
-
+**QUE LENTO PASAN LAS HORAS**
 ## Overview
 
 In the picture below you see four boxes. One of them stands alone, while the other three are grouped together in what I'll call your _Development Environment_. 
